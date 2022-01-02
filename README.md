@@ -12,7 +12,7 @@ We can chnage the fragment with the use of Navigator based on:( findNavControlle
 2) actions
 3) Safe args plugin (Recommanded) Directions classes beacuse it is type safe and warn at the compile time.
 
-Passing the data from one frgament to another fragment:
-  1)Bundale
-  2)Arguments
+Passing the data from one frgament to another fragment:<br>
+  1)Bundale<br>
+  2)Arguments<br>
   
