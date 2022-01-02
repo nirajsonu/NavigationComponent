@@ -7,7 +7,7 @@ It is a new Navigation technique to changing the frgments adding to backstack,pa
 one Navhost have one NavController.<br>
 3) NavController(Object kotlin/java Contoller class):It is a controller class that control the whole fragemet transcation.<br>
 
-We can chnage the fragment with the use of Navigator based on:
+We can chnage the fragment with the use of Navigator based on:( findNavController().navigate()) method
 1) id(Destination)
 2) actions
 3) Safe args plugin (Recommanded) Directions classes beacuse it is type safe and warn at the compile time.
