@@ -16,3 +16,5 @@ Passing the data from one frgament to another fragment:<br>
   1)Bundale<br>
   2)Arguments<br>
   
+Managing Backstack of the frgament
+
