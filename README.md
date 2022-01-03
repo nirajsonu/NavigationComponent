@@ -14,7 +14,8 @@ We can chnage the fragment with the use of Navigator based on:( findNavControlle
 
 Passing the data from one frgament to another fragment:<br>
   1)Bundale<br>
-  2)Arguments<br>
+  2)Arguments<br> 
+  supported arguments list(https://developer.android.com/guide/navigation/navigation-pass-data)
   
 Managing Backstack of the frgament
 
